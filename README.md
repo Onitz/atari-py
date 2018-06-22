@@ -1,4 +1,7 @@
 # atari_py
+This fork only exists as a backup, see Kojoley/atari-py
+https://stackoverflow.com/questions/42605769/openai-gym-atari-on-windows/46739299
+pip install --no-index -f https://github.com/Kojoley/atari-py/releases atari_py
 
 [![Build Status](https://travis-ci.org/openai/atari-py.svg?branch=master)](https://travis-ci.org/openai/atari-py)
 
